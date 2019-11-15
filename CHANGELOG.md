@@ -1,3 +1,13 @@
+1.1.4 / 2019-11-15
+==================
+
+* pulled in @mojavelinux's changes from:
+  + https://github.com/mojavelinux/deep-freeze-node/tree/issue-5-remove-os-arch-restrictions
+  + https://github.com/mojavelinux/deep-freeze-node/tree/remove-falsy-check
+  + https://github.com/mojavelinux/deep-freeze-node/tree/remove-superfluous-assignment
+* added vscode debugger configs in .vscode folder
+* made better englishes in most important tests words, description, thing.
+
 1.1.3 / 2017-08-05
 ==================
 

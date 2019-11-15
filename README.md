@@ -18,7 +18,11 @@ Recursively `Object.freeze()` objects.
 
 ## Installation
 
-`npm install deep-freeze-node`
+You **can’t do this**: `npm install deep-freeze-node`
+
+Instead, to get this version, do this:
+
+```yarn add https://github.com/perfectcube/deep-freeze-node.git#master```
 
 ## Usage Example
 
