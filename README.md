@@ -24,6 +24,10 @@ Instead, to get this version, do this:
 
 ```yarn add https://github.com/perfectcube/deep-freeze-node.git#master```
 
+### Careful Kid!
+
+This fork will dissappear as soon as @anatoliygatt catches up on his PR: https://github.com/anatoliygatt/deep-freeze-node/pulls
+
 ## Usage Example
 
 ```javascript
