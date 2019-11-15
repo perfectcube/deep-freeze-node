@@ -55,7 +55,7 @@ describe('deep-freeze', function() {
       });
     });
 
-    it('should not override any object properties', function() {
+    it('should not allow write to object properties', function() {
       person = freeze(person);
       person.name = 'Jack';
       person.surname = 'Jackson';
